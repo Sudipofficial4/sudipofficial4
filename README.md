@@ -420,9 +420,10 @@ public class FlutterDevJourney {
 
 <div align="center">
     
-###### @2025 [BisKIRAN TECHNOLOGIES](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
+###### @2025 [Sudip Koirala](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
 
 </div>
+
 
 
 <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/line-neon.gif" width="100%"> 
