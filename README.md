@@ -42,7 +42,7 @@
 
 
   <!--
-<a href="https://jrohit.com.np">
+<a href="https://www.sudipkoirala44.com.np/">
     <img src="https://raw.githubusercontent.com/sudipofficial4/sudipofficial4/master/Final.png" alt="Clickable Image">
 </a> 
 -->
@@ -60,7 +60,7 @@
 <p align="center">
 <a href="https://www.buymeacoffee.com/sudipofficial4_" target="_blank"><img alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" /></a>
 <a href="https://discord.com/users/sudipofficial4_#1528" target="_blank"><img alt="" src="https://img.shields.io/badge/discord-000?style=for-the-badge&logo=discord&logoColor=4e5d94" style="vertical-align:center" /></a>
-<a href="https://jrohit.com.np" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://www.sudipkoirala44.com.np/" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://twitter.com/sudipofficial4_" target="_blank"><img alt="" src="https://img.shields.io/badge/Twitter-000?logo=Twitter&logoColor=1DA1F2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://linkedin.com/in/sudipofficial4" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://instagram.com/sudipofficial4_" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a>
@@ -271,7 +271,7 @@
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://jrohit.com.np/">
+    <a href="https://www.sudipkoirala44.com.np//">
         <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudipofficial4&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
     </a>
 </p>
@@ -358,9 +358,10 @@ public class CodeBite {
 
 <div align="center">
     <i style="font-size: 10px;">
-        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
+        "Don’t let anyone tell you Flutter can’t build your vision. <br><b>You’ve got the power to craft beautiful apps, pixel by pixel, widget by widget.</b><br> Others might doubt the framework, but if you’re passionate and persistent, you can turn ideas into reality. <br><b>If you’re dreaming of clean code and smooth performance, go write it. Code your future. Period.</b>"
     </i>
 </div>
+
 
 
 
@@ -368,32 +369,32 @@ public class CodeBite {
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
  <p align="center">
-  <a href="https://jrohit.com.np/" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np//" target="_blank">
     <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://raw.githubusercontent.com/sudipofficial4/sudipofficial4/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://raw.githubusercontent.com/sudipofficial4/sudipofficial4/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
 
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
   </a>
-  <a href="https://jrohit.com.np" target="_blank">
+  <a href="https://www.sudipkoirala44.com.np/" target="_blank">
     <img src="https://github.com/sudipofficial4/sudipofficial4/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
   </a>
   
@@ -417,7 +418,7 @@ public class CodeBite {
 
 <div align="center">
     
-###### @2024 [BisKIRAN TECHNOLOGIES](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
+###### @2025 [BisKIRAN TECHNOLOGIES](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
 
 </div>
 
