@@ -324,12 +324,10 @@
   <summary>Skills</summary>
   
 - Problem Solving
-- Youtuber
-- Blogging
-- Web Content Writing
-- Video Editing
-- Blogger
 - Researching & Learning
+- Flutter
+- Python
+  
 </details>
 
 
@@ -421,7 +419,7 @@ public class FlutterDevJourney {
 
 <div align="center">
     
-###### @2025 [Sudip Koirala](http://biskirantechnologies.great-site.net/?i=1), Inc. All rights reserved
+###### @2025 [Sudip Koirala](https://www.sudipkoirala44.com.np/), Inc. All rights reserved
 
 </div>
 
